@@ -1,2 +1,2 @@
 # html-portfolio
-udemy basic html project
+basic html project
